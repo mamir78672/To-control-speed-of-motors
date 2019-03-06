@@ -1,2 +1,2 @@
 # speed-control-of-motors
-Arduino coding for speed control of DC motors.
+Arduino code to control the speed of DC motors.
